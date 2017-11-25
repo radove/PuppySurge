@@ -1,1 +1,1 @@
-# PuppySurge
+Puppy Surge is a mobile application developed with Unity3D. This checkin is a release of the C# code only, in order to help give other developers ideas on various programming techniques related to mobile gaming. Puppy Surge is available on iOS and Android in the app store. Feel free to utilize the C# scripts as example code.
